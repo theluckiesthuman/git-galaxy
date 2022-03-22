@@ -2,4 +2,4 @@
 
 * Always be there at T-120s (*if you are on time, you are late*).
 * Ask for the help when you need it.
-* Communicate all the details (*it is okay to overcommunicate*).
+* Don't communicate everything (*that's just waste of time*).
