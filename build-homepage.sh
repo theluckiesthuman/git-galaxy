@@ -5,7 +5,8 @@ echo "Generating the README.md"
 cat templates/README-header.md > README.md
 echo "" >> README.md
 
-for file in "$(find ./crew -type f)"; do
+find ./crew -type f -print0 | while read -d $'\0' file
+do
   echo "Adding the member: ${file}"
   cat "${file}" >> README.md
   echo -e "---\n" >> README.md
