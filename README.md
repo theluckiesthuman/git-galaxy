@@ -12,6 +12,9 @@ To add your name read [the contributing documentation](./CONTRIBUTING.md).
 
 ---
 
+Hello, there. I am Kiran Mohanty having over 8 years of experience 
+in distributed software development.---
+
 Hi I'm Jane Doe.
 
 * Git
